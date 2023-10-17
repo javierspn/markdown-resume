@@ -13,7 +13,7 @@ author:
 - I am the author
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [[totallynotit](https://www.totallynotit.com)] . [ javier.santiago@msn.com] . [ 622 518 706 ]
 
 ### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
 
