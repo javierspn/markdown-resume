@@ -13,9 +13,35 @@ author:
 - I am the author
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+<link href="resume-stylesheet.css" rel="stylesheet"></link>
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+###### [[totallynotit](https://www.totallynotit.com)] [ javier.santiago@msn.com] [ +34622518706 ]
+
+###### [Avda. del Monasterio del Escorial 40B 3A - 28049]
+
+### Systems administrator and architect with a focus on problem solving and love for open source solutions
+
+## Experience
+
+### Systems architect - [SICE](https://www.sice.com)
+
+2023-01-10 to 2023-10-16, Madrid.
+
+SICE is a Spanish Engineering company that provides SCADA integral systems for a variety of industries, focused on transportation.
+
+I was in charge of the design and support of the underlying IT infrastructure, including documentation and business processes. I designed and implemented the security systems and policies.
+
+**Technologies used:** ```systems administration``` ```systems architecture``` ```security compliance``` ```Microsoft services``` ```Debian``` ```Oracle Linux``` ```Oracle cloud``` ```Docker swarm``` ```Microsoft services``` ```Bash``` ```PowerShell``` ```Python``` ```YAML``` ```JSON```
+
+### Script developer - [Nexthink](https://www.nexthink.com)
+
+2021-05-24 to 2022-05-20, Madrid.
+
+Nexthink is a company whose products help automate most of the repetitive tasks that level 1 and level 2 IT departments execute.
+
+I managed a small team of hybrid developers/sysadmins, and coded automated solutions based PowerShell and bash for integration within the Nexthink platform software.
+
+**Technologies used:** ```Agile``` ```SCRUM``` ```Bash``` ```PowerShell``` ```Python``` ```YAML``` ```JSON``` ```Git``` ```Jenkins``` ```macOS``` ```Linux``` ```Windows```
 
 ## Skills
 
