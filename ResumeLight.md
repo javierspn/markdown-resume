@@ -6,18 +6,19 @@ margin-bottom: 2cm
 title: Your Resume in Markdown
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
-  - 'php'
-  - 'mysql'
+  - 'systems administration'
+  - 'architect'
+  - 'Windows'
   - 'linux'
 author:
-- I am the author
-subject: 'Subject'
+- Javier Santiago de la Peña
+subject: 'Resume'
 ---
 <link href="resume-stylesheet.css" rel="stylesheet"></link>
 
-###### [[totallynotit](https://www.totallynotit.com)] [ javier.santiago@msn.com] [ +34622518706 ]
+###### [[linkedin](linkedin.com/in/jspn)] [ javier.santiago@msn.com] [ +34622518706 ]
 
-###### [Avda. del Monasterio del Escorial 40B 3A - 28049]
+###### [Calle Barrosa 4A - 28723 - Madrid]
 
 ### Systems administrator and architect with a focus on problem solving and love for open source solutions
 
@@ -27,9 +28,11 @@ subject: 'Subject'
 
 2023-01-10 to 2023-10-16, Madrid.
 
-SICE is a Spanish Engineering company that provides SCADA integral systems for a variety of industries, focused on transportation.
+This company supports and implements IT and communication platforms for mass transit systems: subway, toll, public roads, tunnels, etc.
 
-I was in charge of the design and support of the underlying IT infrastructure, including documentation and business processes. I designed and implemented the security systems and policies.
+I help and assist a group of Junior technicians. I am also designing the IT architecture on an planned tunnel transportation system project.
+
+I also assist and design the IT architecture of various UK and US based toll locations and subway and transportation Spanish-based systems.
 
 **Technologies used:** ```systems administration``` ```systems architecture``` ```security compliance``` ```Microsoft services``` ```Debian``` ```Oracle Linux``` ```Oracle cloud``` ```Docker swarm``` ```Microsoft services``` ```Bash``` ```PowerShell``` ```Python``` ```YAML``` ```JSON```
 
